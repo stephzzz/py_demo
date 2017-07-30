@@ -1,4 +1,4 @@
-# /usr/bin/env python
+# /usr/bin/env python3
 class People(object):
     country = 'Chian'      #------->这是公有的类属性
     __address = "Beijing"  #------->这是私有的类属性
