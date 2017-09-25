@@ -11,4 +11,3 @@ def get_uuid():
     str_uuid = str(uuid.uuid1())
     return ''.join(str_uuid.split('-'))
 
-print(get_uuid())
